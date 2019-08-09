@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.ishwar.myapp"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "demo",
+        "packageName": "com.ishwar.myapp",
+        "packageFolder": "com/ishwar/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Y2EzY2E5ODg2OWY4ODNiZmNlNjJmMTMzYzJkMTViMDdmNWIyNWZjMTdhZTExNjEzYTRkZDM5OWZhNjVlMmY5NmFjZDFmN2ZmYTNmMmYwMzAyMTY3ZjM4NTEwMmM0MmM5MzIwMTJkZTQwZjNmYWZhZGFjNjZjNWRiMGQ4MTMzZTU=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
